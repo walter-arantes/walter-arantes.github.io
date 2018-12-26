@@ -2328,6 +2328,14 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #cc2952 !important;
 }
+.cid-rdlEYGIw4N {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-rdlEYGIw4N .media-container-row .mbr-text {
+  color: #767676;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -2708,12 +2716,4 @@ body {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #cc2952 !important;
-}
-.cid-rdlEYGIw4N {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #efefef;
-}
-.cid-rdlEYGIw4N .media-container-row .mbr-text {
-  color: #767676;
 }
